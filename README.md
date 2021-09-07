@@ -1,7 +1,4 @@
-### Hi, I am Ashwin, a wanna-be cybersecurity pro that is too lazy to get any work done 😋.
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-Here is my [Website][website]
-
-
-
-[![website]Website](https://ashwinbelbase.com.np)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
