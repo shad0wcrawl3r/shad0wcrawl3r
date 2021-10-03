@@ -19,3 +19,5 @@ My projects:
 ><li>Built an OS by myself using LFS just to scrap everything and use debian because my supervisor wanted a package manager</li>
 ><li>Built a Discord bot in node.js and discontinued because I got tired of node.js promises</li>
 ><li>Bunch of mini-scripts to make my life easier at work.
+
+  [![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shad0wcrawl3r)](https://github.com/shad0wcrawl3r/github-readme-stats)
