@@ -20,6 +20,7 @@ My projects:
 ><li>Built a Discord bot in node.js and discontinued because I got tired of node.js promises</li>
 ><li>Bunch of mini-scripts to make my life easier at work.
 
-  [![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shad0wcrawl3r&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/shad0wcrawl3r/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shad0wcrawl3r&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shad02crawl3r&langs_count=5&theme=tokyonight)]()
   
 
