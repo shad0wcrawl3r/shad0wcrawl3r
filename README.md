@@ -16,5 +16,5 @@ What I can do:
 
 My projects:
 ><li>Built an OS by myself using LFS just to scrap everything and use debian because my supervisor wanted a package manager</li>
-><li>Built a Discord bot in node.js and discontinued because I got bored of node.js</li>
+><li>Built a Discord bot in node.js and discontinued because I got tired of node.js promises</li>
 ><li>Bunch of mini-scripts to make my life easier at work.
