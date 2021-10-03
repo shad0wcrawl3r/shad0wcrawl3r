@@ -21,6 +21,6 @@ My projects:
 ><li>Bunch of mini-scripts to make my life easier at work.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shad0wcrawl3r&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shad02crawl3r&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0wcrawl3r&langs_count=5&theme=tokyonight)]()
   
 
