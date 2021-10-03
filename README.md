@@ -5,6 +5,7 @@ About Me:
 ><li> Studied Computer Networking and Security</li>
 ><li> Working as a SIEM Engineer, mainly with Elastic Stack</li>
 ><li> Will spend an aentire week automating stuff rather than spend 5 minutes to do it manually.</li>
+><li> Will keep all my repos private because my code writing style sucks.
 ><li> Love to be lazy</li>  
 ><li> I get bored easily</li>
 
