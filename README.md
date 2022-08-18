@@ -6,7 +6,6 @@ About Me:
 ><li> Working as a SIEM Engineer, mainly with Elastic Stack</li>
 ><li> Will spend an entire week automating stuff rather than spend 5 minutes to do it manually.</li>
 ><li> Love to be lazy</li>  
-><li> I get bored easily</li>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shad0wcrawl3r&count_private=true&theme=radical&show_icons=true&include_all_commits=true&custom_title=My+Stats)]()  
 What I can do:
 ><li> Python</li>
