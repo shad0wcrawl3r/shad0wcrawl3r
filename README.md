@@ -18,7 +18,8 @@ My projects:
 ><li>Built a Discord bot in node.js and discontinued because I got tired of node.js promises</li>
 ><li>Bunch of mini-scripts to make my life easier at work.
 What I am doing currently:
-><li>Just Lazing around 
+><li>Working as a SIEM Engineer at Vairav Technology.</li>
+><li>Currently working on a Rust application to monitor Linux system health.
 
 
   
